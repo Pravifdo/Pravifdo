@@ -1,23 +1,22 @@
 ## Hi there 👋
 
 <!--
-**CyberSecurityUP/CyberSecurityUP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PraveenFernando/PraveenFernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌟 I’m currently working on ...
+- 🌟 I’m currently learning ...
+- 🌟 I’m looking to collaborate on ...
+- 🌟 I’m looking for help with ...
+- 🌟 Ask me about ...
+- 🌟 How to reach me: ...
+- 🌟 Fun fact: ...
 -->
 
-### I'm Joas Antonio
+### I'm Praveen Fernando
 
-Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber Security Mentor | Article Writer | Mitre Att&ck Contributor | Hacking is NOT a Crime Advocate
+Cybersecurity & Networking Enthusiast | Web Developer | Computer Science Student | Programmer
 
 <br>
 
@@ -25,21 +24,21 @@ Red Team Expert | InfoSec Leader | OWASP Member | Speaker and Teaching | Cyber S
 
 </br>
 
-[![CyberSecurityUP GitHub stats](https://github-readme-stats.vercel.app/api?username=CyberSecurityUP&theme=dark)](https://github.com/CyberSecurityUP/github-readme-stats)
+[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenFernando&theme=dark)](https://github.com/PraveenFernando/github-readme-stats)
 
-:computer: I'm Red Team Leader.
+:computer: I am passionate about cybersecurity, networking, and web development.
 
-:house_with_garden: I’m from Brazil.
+:house_with_garden: I live in Sri Lanka.
 
-:books: I'm currently learning all about IT and Security.
+:books: I am currently studying Computer Science at Eastern University, Sri Lanka.
 
 ## Social Networks
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/CyberSecurityUP)](https://github.com/CyberSecurityUP)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PraveenFernando)](https://github.com/PraveenFernando)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joas-antonio-dos-santos)](https://www.linkedin.com/in/joas-antonio-dos-santos)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/your-linkedin-profile)](https://www.linkedin.com/in/your-linkedin-profile)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/C0d3Cr4zy)](https://twitter.com/C0d3Cr4zy)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle)](https://twitter.com/your-twitter-handle)
 
 ## Programming Languages
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CyberSecurityUP&layout=compact&theme=tokyonight"/>
+<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenFernando&layout=compact&theme=tokyonight"/>
