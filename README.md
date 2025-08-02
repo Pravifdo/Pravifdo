@@ -24,7 +24,7 @@ Cybersecurity & Networking Enthusiast | Web Developer | Computer Science Student
 
 </br>
 
-[![Praveen's GitHub stats](https://github-readme-stats.vercel.app/api?username=PraveenFernando&theme=dark)](https://github.com/PraveenFernando/github-readme-stats)
+[![Praveen's GitHub stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=PraveenFernando&theme=dark)](https://github.com/PraveenFernando/github-readme-stats)
 
 :computer: I am passionate about cybersecurity, networking, and web development.
 
@@ -32,7 +32,7 @@ Cybersecurity & Networking Enthusiast | Web Developer | Computer Science Student
 
 :books: I am currently studying Computer Science at Eastern University, Sri Lanka.
 
-## Social Networks
+## 🔗 Social Networks
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/PraveenFernando)](https://github.com/PraveenFernando)
 
@@ -40,5 +40,6 @@ Cybersecurity & Networking Enthusiast | Web Developer | Computer Science Student
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/your-twitter-handle)](https://twitter.com/your-twitter-handle)
 
-## Programming Languages
-<img width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PraveenFernando&layout=compact&theme=tokyonight"/>
+## 🖥️ Programming Languages
+
+<img width="36%" src="https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=PraveenFernando&layout=compact&theme=tokyonight"/>
